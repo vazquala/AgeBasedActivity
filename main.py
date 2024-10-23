@@ -1,4 +1,4 @@
-age = int(input(""))
+age = int(input("Enter your age: "))
 
 if age < 5:
     print("You should play with toys.")
